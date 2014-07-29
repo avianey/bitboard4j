@@ -5,7 +5,7 @@
 	<groupId>fr.avianey</groupId>
 	<artifactId>bitboard4j</artifactId>
     <packaging>jar</packaging>
-	<version>1.0.0</version>
+	<version>1.0.1-SNAPSHOT</version>
 	<description>
 	    Bitboard4j is a utility jar for commons bitboard operations.
 	    It provide implementation of Zobrist Hashing, Hamming Weight, and more...
@@ -38,7 +38,7 @@
         <url>https://github.com/avianey/bitboard4j</url>
         <developerConnection>scm:git:git@github.com/avianey/bitboard4j.git</developerConnection>
         <connection>scm:git:git://github.com/avianey/bitboard4j.git</connection>
-        <tag>bitboard4j-1.0.0</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
